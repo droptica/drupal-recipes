@@ -8,6 +8,10 @@ This file contains links to all Droptica's Drupal recipes.
 - [Watchdog](https://github.com/droptica/ddr_watchdog/) - This recipe includes improvements for the Watchdog (dblog) module. The recipe adds views that make browsing system logs more convenient.
 
 ### Security
+
+- [Security](https://github.com/droptica/ddr_security) - This repository contains all security-related recipes. You can use this and download all recipes or download them separately.
+
+#### Security Recipes (sub-recipes):
 - [Security Password Policy](https://github.com/droptica/ddr_security_password_policy) - This Recipe adds security password policy.
 - [Security Email Notifications](https://github.com/droptica/ddr_security_email_notifications_email_changed) - This Recipe adds email notifications for email changes.
 
