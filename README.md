@@ -9,6 +9,8 @@ This file contains links to all Droptica's Drupal recipes.
 
 ### Security
 - [Security Password Policy](https://github.com/droptica/ddr_security_password_policy) - This Recipe adds security password policy.
+- [Security Email Notifications](https://github.com/droptica/ddr_security_email_notifications_email_changed) - This Recipe adds email notifications for email changes.
+
 ### SEO
 @todo
 
