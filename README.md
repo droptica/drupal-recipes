@@ -14,6 +14,10 @@ This file contains links to all Droptica's Drupal recipes.
 #### Security Recipes (sub-recipes):
 - [Security Password Policy](https://github.com/droptica/ddr_security_password_policy) - This Recipe adds security password policy.
 - [Security Email Notifications](https://github.com/droptica/ddr_security_email_notifications_email_changed) - This Recipe adds email notifications for email changes.
+- [Security Email Notifications - Password Changed](https://github.com/droptica/ddr_security_email_notifications_password_changed) - This Recipe adds email notifications for password changes.
+- [Security Email Notifications - Role Changed](https://github.com/droptica/ddr_security_email_notifications_role_changed) - This Recipe adds email notifications for role changes.
+- [Security Automated Logout](https://github.com/droptica/ddr_security_automated_logout) - This Recipe adds automated logout functionality.
+- [Security Session Limit](https://github.com/droptica/ddr_security_session_limit) - This Recipe adds session limit functionality.
 
 ### SEO
 @todo
