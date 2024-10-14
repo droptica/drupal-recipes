@@ -19,6 +19,7 @@ This file contains links to all Droptica's Drupal recipes.
 - [Security Automated Logout](https://github.com/droptica/ddr_security_automated_logout) - This Recipe adds automated logout functionality.
 - [Security Session Limit](https://github.com/droptica/ddr_security_session_limit) - This Recipe adds session limit functionality.
 - [Security Login](https://github.com/droptica/ddr_security_login) - This Recipe adds security login functionality.
+- [Security Seckit] (https://github.com/droptica/ddr_security) - This Recipe ads security seckit module and functionality.
 
 ### SEO
 @todo
